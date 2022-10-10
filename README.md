@@ -1,5 +1,7 @@
 # processing-programs
 
+##PGUI (basic processing GUI lib)
+https://user-images.githubusercontent.com/96544487/194967348-20125abb-418e-4306-b963-5d4ce36c7717.mp4
 ### faded_circle
 https://user-images.githubusercontent.com/96544487/193707440-7717fa11-8f72-499d-a208-14c9cc2e0b3c.mp4
 ### loading_icon
