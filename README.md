@@ -2,6 +2,8 @@
 
 ### faded_circle
 https://user-images.githubusercontent.com/96544487/193707440-7717fa11-8f72-499d-a208-14c9cc2e0b3c.mp4
+### loading_icon
+https://user-images.githubusercontent.com/96544487/194965870-90111bd0-8e25-4f39-bc3d-c8c7b82d92ab.mp4
 ### random_b_w_pixel
 https://user-images.githubusercontent.com/96544487/193707494-99a91efb-71ca-467b-83f9-424fa0a63aa1.mp4
 ### random_rgb_pixel
