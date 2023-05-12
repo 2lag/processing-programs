@@ -6,8 +6,6 @@ https://user-images.githubusercontent.com/96544487/193707440-7717fa11-8f72-499d-
 https://user-images.githubusercontent.com/96544487/198117468-6c508028-7e96-478b-8412-e9e0879c08b9.mp4
 ### loading_icon
 https://user-images.githubusercontent.com/96544487/194965870-90111bd0-8e25-4f39-bc3d-c8c7b82d92ab.mp4
-### PGUI (basic processing GUI lib)
-https://user-images.githubusercontent.com/96544487/194967348-20125abb-418e-4306-b963-5d4ce36c7717.mp4
 ### random_b_w_pixel
 https://user-images.githubusercontent.com/96544487/198117530-e9f10159-ef95-414b-83ad-7845e4942e6a.mp4
 ### random_grayscale_pixel
